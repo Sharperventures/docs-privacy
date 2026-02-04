@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - 3rd Act Studio</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      color: #333;
+      line-height: 1.6;
+      background: #fff;
+    }
+    h1 { font-size: 28px; margin-top: 30px; color: #000; }
+    h2 { font-size: 22px; margin-top: 25px; color: #222; border-bottom: 1px solid #eee; padding-bottom: 8px; }
+    h3 { font-size: 18px; margin-top: 20px; color: #444; }
+    ul { padding-left: 20px; }
+    li { margin: 8px 0; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 30px 0; }
+    strong { color: #000; }
+    .header { text-align: center; margin-bottom: 40px; }
+    .updated { color: #666; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Privacy Policy</h1>
+    <p class="updated"><strong>Last Updated:</strong> February 2, 2026 | <strong>Version:</strong> 1.0.0</p>
+  </div>
+
+  <h2>Introduction</h2>
+  <p>Welcome to 3rd Act Studio ("we," "our," or "us"). We are committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App") and related services.</p>
+  <p>By using our App, you agree to the collection and use of information in accordance with this policy.</p>
+
+  <hr>
+
+  <h2>1. Information We Collect</h2>
+
+  <h3>1.1 Information You Provide</h3>
+  <ul>
+    <li><strong>Account Information:</strong> Email address, password, display name when you create an account</li>
+    <li><strong>Profile Information:</strong> Profile picture, preferences, favorites</li>
+    <li><strong>Payment Information:</strong> Processed securely through Google Play or Apple App Store (we do not store payment card details)</li>
+    <li><strong>Communications:</strong> Messages you send to our support team</li>
+  </ul>
+
+  <h3>1.2 Information Collected Automatically</h3>
+  <ul>
+    <li><strong>Device Information:</strong> Device type, operating system, unique device identifiers</li>
+    <li><strong>Usage Data:</strong> Features used, content viewed, watch history, time spent in app</li>
+    <li><strong>Log Data:</strong> IP address, access times, app crashes, system activity</li>
+    <li><strong>Audio Data:</strong> When you use voice features, audio is processed to provide the service and is not stored permanently</li>
+  </ul>
+
+  <h3>1.3 Information from Third Parties</h3>
+  <ul>
+    <li><strong>Social Login:</strong> If you sign in via Google or Apple, we receive your name and email</li>
+    <li><strong>Analytics Partners:</strong> Aggregated usage statistics</li>
+  </ul>
+
+  <hr>
+
+  <h2>2. How We Use Your Information</h2>
+  <p>We use collected information to:</p>
+  <ul>
+    <li>Provide, maintain, and improve our services</li>
+    <li>Process transactions and send related information</li>
+    <li>Send promotional communications (with your consent)</li>
+    <li>Personalize your experience and content recommendations</li>
+    <li>Monitor and analyze usage patterns</li>
+    <li>Detect, prevent, and address technical issues</li>
+    <li>Comply with legal obligations</li>
+  </ul>
+
+  <hr>
+
+  <h2>3. Virtual Currency ("Tokens" / "Coins")</h2>
+  <p>Our App uses virtual currency ("Tokens" or "Coins") that:</p>
+  <ul>
+    <li>Has no real-world monetary value</li>
+    <li>Cannot be exchanged for cash or real currency</li>
+    <li>Is non-transferable between accounts</li>
+    <li>May be used only within our App to unlock content</li>
+    <li>May be modified, regulated, or discontinued at our discretion</li>
+  </ul>
+  <p><strong>Purchases of virtual currency are final and non-refundable</strong>, except as required by applicable law or platform policies (Google Play, Apple App Store).</p>
+
+  <hr>
+
+  <h2>4. Sharing Your Information</h2>
+
+  <h3>4.1 Service Providers</h3>
+  <p>Third parties that help us operate our business:</p>
+  <ul>
+    <li>Firebase (Google) - Authentication and database</li>
+    <li>Cloudflare - Content delivery</li>
+    <li>Google AdMob - Advertising</li>
+    <li>Analytics providers</li>
+  </ul>
+
+  <h3>4.2 Legal Requirements</h3>
+  <p>When required by law or to:</p>
+  <ul>
+    <li>Comply with legal process</li>
+    <li>Protect our rights and safety</li>
+    <li>Prevent fraud or illegal activity</li>
+  </ul>
+
+  <h3>4.3 Business Transfers</h3>
+  <p>In connection with a merger, acquisition, or sale of assets</p>
+  <p><strong>We do not sell your personal information to third parties.</strong></p>
+
+  <hr>
+
+  <h2>5. Data Retention</h2>
+  <p>We retain your information for as long as:</p>
+  <ul>
+    <li>Your account is active</li>
+    <li>Needed to provide services</li>
+    <li>Required by law</li>
+  </ul>
+  <p>You may request deletion of your data at any time (see Section 8).</p>
+
+  <hr>
+
+  <h2>6. Data Security</h2>
+  <p>We implement appropriate technical and organizational measures to protect your information, including:</p>
+  <ul>
+    <li>Encryption in transit (HTTPS/TLS)</li>
+    <li>Secure authentication</li>
+    <li>Access controls</li>
+    <li>Regular security assessments</li>
+  </ul>
+  <p>However, no method of transmission over the Internet is 100% secure.</p>
+
+  <hr>
+
+  <h2>7. Children's Privacy (COPPA Compliance)</h2>
+  <p>Our App is not intended for children under 13. We do not knowingly collect information from children under 13.</p>
+  <p>If you are under 13:</p>
+  <ul>
+    <li>Do not use our App</li>
+    <li>Do not provide any information</li>
+  </ul>
+  <p>If we discover we have collected information from a child under 13, we will delete it immediately.</p>
+  <p><strong>If you are between 13 and 18</strong>, you may use our App only with parental consent.</p>
+
+  <hr>
+
+  <h2>8. Your Rights</h2>
+
+  <h3>8.1 All Users</h3>
+  <p>You have the right to:</p>
+  <ul>
+    <li>Access your personal information</li>
+    <li>Correct inaccurate information</li>
+    <li>Delete your account and data</li>
+    <li>Opt-out of marketing communications</li>
+    <li>Export your data</li>
+  </ul>
+
+  <h3>8.2 European Users (GDPR)</h3>
+  <p>Additional rights include:</p>
+  <ul>
+    <li>Right to restrict processing</li>
+    <li>Right to data portability</li>
+    <li>Right to object to processing</li>
+    <li>Right to withdraw consent</li>
+    <li>Right to lodge a complaint with a supervisory authority</li>
+  </ul>
+
+  <h3>8.3 California Users (CCPA)</h3>
+  <p>Additional rights include:</p>
+  <ul>
+    <li>Right to know what personal information is collected</li>
+    <li>Right to know if personal information is sold or disclosed</li>
+    <li>Right to opt-out of the sale of personal information</li>
+    <li>Right to non-discrimination for exercising your rights</li>
+  </ul>
+  <p><strong>We do not sell personal information.</strong></p>
+  <p>To exercise any of these rights, contact us at: <a href="mailto:privacy@3rdactstudio.com">privacy@3rdactstudio.com</a></p>
+
+  <hr>
+
+  <h2>9. International Data Transfers</h2>
+  <p>Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place for such transfers.</p>
+
+  <hr>
+
+  <h2>10. Third-Party Links</h2>
+  <p>Our App may contain links to third-party websites or services. We are not responsible for their privacy practices.</p>
+
+  <hr>
+
+  <h2>11. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. We will notify you of material changes by:</p>
+  <ul>
+    <li>Posting the new policy in the App</li>
+    <li>Sending you a notification</li>
+    <li>Updating the "Last Updated" date</li>
+  </ul>
+
+  <hr>
+
+  <h2>12. Contact Us</h2>
+  <p>If you have questions about this Privacy Policy, please contact us:</p>
+  <p>
+    <strong>3rd Act Studio</strong><br>
+    Email: <a href="mailto:privacy@3rdactstudio.com">privacy@3rdactstudio.com</a>
+  </p>
+
+  <hr>
+
+  <h2>13. Consent</h2>
+  <p>By using our App, you consent to this Privacy Policy.</p>
+  <p>If you do not agree with this policy, please do not use our App.</p>
+
+</body>
+</html>
